@@ -21,6 +21,40 @@
 
 ---
 
+## 📖 About GLX Remote Client
+
+### Get help without long explanations
+
+Stuck on your PC? With GLX Remote Client a person you trust who uses GLX Remote can help you right on your screen. You tell them your GLX ID and password, click Allow, and they see and control your PC until the problem is solved.
+
+### Always ready, never in the way
+
+GLX Remote Client is installed once and then waits quietly in the notification area next to the clock. Your GLX ID and password stay the same until you create a new password yourself, so your helper can help even faster next time.
+
+If you like, GLX Remote Client starts with Windows. For your own computers you can set a fixed password for unattended access, then no confirmation is needed.
+
+### You keep track
+
+During the session an info window shows who is connected: name, PC, GLX ID and how long the session has been running. There you can chat, talk to your helper via your microphone, send a file or a screenshot and end the connection with one click.
+
+Files your helper sends you land in Downloads\GLX Remote. You can change the folder in the settings.
+
+### Secure
+
+Nobody gets onto your PC without your password. You confirm every connection, unless you have set up a fixed password for unattended access yourself. After five wrong passwords GLX Remote blocks further attempts for a few minutes.
+
+### Kept simple
+
+GLX Remote Client runs in GLX design, in German and English, with a few clear settings. The program finds new versions by itself and installs them with one click if you like.
+
+### Connection in the network and over the internet
+
+In the same network, for example at home or in the office, help works directly from PC to PC.
+
+Over the internet, when your helper is somewhere else, the connection runs through the GLX server.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Main window

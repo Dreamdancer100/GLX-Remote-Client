@@ -21,6 +21,40 @@
 
 ---
 
+## 📖 Über GLX Remote Client
+
+### Hilfe holen, ohne lange zu erklären
+
+Du kommst am PC nicht weiter? Mit GLX Remote Client kann dir eine vertraute Person, die GLX Remote Server nutzt, direkt auf deinem Bildschirm helfen. Du nennst ihr deine GLX-ID und dein Passwort, klickst auf Erlauben, und sie sieht und steuert deinen PC, bis das Problem gelöst ist.
+
+### Immer bereit, ohne zu stören
+
+GLX Remote Client wird einmal installiert und wartet dann leise unten im Infobereich neben der Uhr. Deine GLX-ID und dein Passwort bleiben gleich, bis du selbst ein neues Passwort erstellst. So kann dir dein Helfer beim nächsten Mal noch schneller helfen.
+
+Auf Wunsch startet GLX Remote Client mit Windows. Für deine eigenen Rechner kannst du ein festes Passwort für den unbeaufsichtigten Zugriff festlegen, dann ist keine Bestätigung nötig.
+
+### Du behältst den Überblick
+
+Während der Hilfe zeigt ein Infofenster, wer verbunden ist: Name, PC, GLX-ID und die Dauer der Sitzung. Dort kannst du chatten, über dein Mikrofon mit dem Helfer sprechen, ihm eine Datei oder einen Screenshot schicken und die Verbindung mit einem Klick trennen.
+
+Dateien, die dir dein Helfer schickt, landen in Downloads\GLX Remote. Den Ordner kannst du in den Einstellungen ändern.
+
+### Sicher
+
+Ohne dein Passwort kommt niemand auf deinen PC. Jede Verbindung musst du bestätigen, außer du hast selbst ein festes Passwort für den unbeaufsichtigten Zugriff eingerichtet. Nach fünf falschen Passwörtern sperrt GLX Remote weitere Versuche für einige Minuten.
+
+### Einfach gehalten
+
+GLX Remote Client läuft im GLX-Design, auf Deutsch und Englisch, mit wenigen, klaren Einstellungen. Neue Versionen findet das Programm selbst und installiert sie auf Wunsch mit einem Klick.
+
+### Verbindung im Netzwerk und über das Internet
+
+Im selben Netzwerk, zum Beispiel zu Hause oder im Büro, funktioniert die Hilfe schon heute direkt von PC zu PC.
+
+Über das Internet, also wenn dein Helfer an einem anderen Ort sitzt, läuft die Verbindung über den GLX-Server.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Hauptfenster
